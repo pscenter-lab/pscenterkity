@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient></defs>
+<rect width="512" height="512" rx="112" fill="#0b1220"/>
+<circle cx="256" cy="230" r="184" fill="none" stroke="url(#g)" stroke-width="18"/>
+<path d="M112 125h100c78 0 118 39 118 100s-40 100-118 100h-28v75h-72V125zm72 62v76h30c29 0 44-13 44-38s-15-38-44-38h-30z" fill="url(#g)"/>
+<path d="M342 181c0-43 37-67 91-67 41 0 73 11 101 28l-30 53c-23-14-44-21-68-21-19 0-28 5-28 14 0 29 133 14 133 105 0 48-40 73-102 73-49 0-90-14-122-35l33-52c28 19 58 30 88 30 22 0 32-6 32-16 0-29-128-14-128-112z" fill="#fff" transform="translate(-35 0) scale(.88 1)"/>
+<text x="256" y="462" text-anchor="middle" font-family="Arial,sans-serif" font-size="45" font-weight="900" letter-spacing="5" fill="#fff">PS CENTER</text>
+</svg>
